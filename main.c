@@ -6,7 +6,7 @@
 int main(int argc, char *argv[]) {
 	
 	int i, debts;
-	double peryear,permonth,perweek, perday, x, total, rest;
+	double peryear,permonth,perweek, perday,perhour, hour, x, total, rest;
 	
 	//Introduction
 	printf("    ----WELCOME TO WORK WAGE CALCULATOR-----\n\n");
@@ -17,13 +17,18 @@ int main(int argc, char *argv[]) {
 	printf("\n\n\nPlease write your work wage per month: ");
 	scanf("%lf",&permonth);
 	
+	printf("\nHow much hours you work per day:");
+	scanf("%lf", &hour);
+	
 	perweek = permonth / 4;
 	perday = perweek / 7;
+	perhour = perday / hour;
 	peryear = permonth * 12;
 	
 	
 	printf("\n Per day = %.2lf", perday);
 	printf("\n Per week = %.2lf", perweek);
+	printf("\n Per hour = %.2lf", perhour);
 	printf("\n Per year = %.2lf", peryear);
 	
 	//Debts
@@ -40,17 +45,26 @@ int main(int argc, char *argv[]) {
 		total = total + x;
 	}
 	
-	rest = total - permonth;
+	rest = permonth - total;
 	
 	printf("\nYou pay %.2lf in debts per month", total);
 	
 	printf("\nFor you, there are %.2lf in the month!", rest);
 	
+		if(rest == 0){
+			printf("\nYou spend all money in debts, you have to think about eliminate some costs!");
+		}
+		else if(rest < 0){
+			printf("\nYou can't pay all the debts,you have to think about eliminate some costs!");
+		}
+		else{
+			printf("\nUse that money well!");
+		}
+	
 	printf("\n\n If you don't buy, the discount is bigger!'");
-	printf("\nJulius Rock");
+	printf("\n ---Julius Rock\n");
 	
-	
-	
+	system("pause");
 	
 	return 0;
 }
