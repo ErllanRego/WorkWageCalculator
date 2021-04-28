@@ -41,9 +41,14 @@
 <hr>
 <h3 id="comousar">Como usar</h3>
 <p align="center";> <img src="prints/interface-inteira.png"</p>
+<p> De início, é solicitado que você insira seu salário por mês, utilizando o ponto para separar as casas decimais.
+   Após fazer as divisões, o programa lhe diz o quanto você ganha por dia, semana, ano e hora.
+   Em seguida ele lhe pedirá para inserir quantas dividas você tem por mês( exemplo: Conta de água, luz, e aluguel = 3). Adiante, inserindo o valor de cada dívida o programa irá efetuar a subtração com base no seu salário.
+   A frase logo abaixo do resultado varia, para o caso de sobrar apenas zero ou der um valor negativo. Neste caso essa mensagem apareceu pois o valor foi acima de zero.
+   </p>
 <hr>
 
-<h3 id="autor">autor do projeto</h3>
+<h3 id="autor">Autor do projeto</h3>
 <table>
   <tr> 
    <td>
