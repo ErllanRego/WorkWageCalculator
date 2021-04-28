@@ -40,7 +40,7 @@
 
 <hr>
 <h3 id="comousar">Como usar</h3>
-<p align="center";> <img src="prints/interface-inteira.png"</p>
+<p align="center";> <img src="prints/interfaceInteira.png"</p>
 <p> De início, é solicitado que você insira seu salário por mês, utilizando o ponto para separar as casas decimais.
    Após fazer as divisões, o programa lhe diz o quanto você ganha por dia, semana, ano e hora.
    Em seguida ele lhe pedirá para inserir quantas dividas você tem por mês( exemplo: Conta de água, luz, e aluguel = 3). Adiante, inserindo o valor de cada dívida o programa irá efetuar a subtração com base no seu salário.
