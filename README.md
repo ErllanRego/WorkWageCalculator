@@ -43,7 +43,9 @@
 <p align="center";> <img src="prints/interfaceInteira.png"</p>
 <p> De início, é solicitado que você insira seu salário por mês, utilizando o ponto para separar as casas decimais.
    Após fazer as divisões, o programa lhe diz o quanto você ganha por dia, semana, ano e hora.
-   Em seguida ele lhe pedirá para inserir quantas dividas você tem por mês( exemplo: Conta de água, luz, e aluguel = 3). Adiante, inserindo o valor de cada dívida o programa irá efetuar a subtração com base no seu salário.
+   Em seguida ele lhe pedirá para inserir quantas dividas você tem por mês( exemplo: Conta de água, luz, e aluguel = 3). Adiante, inserindo o valor de cada dívida o programa irá efetuar a subtração com base no seu salário.</p>
+   <p align="center";> <img src="prints/frasefinal.png"</p>
+   <p>
    A frase logo abaixo do resultado varia, para o caso de sobrar apenas zero ou der um valor negativo. Neste caso essa mensagem apareceu pois o valor foi acima de zero.
    </p>
 <hr>
@@ -53,9 +55,32 @@
   <tr> 
    <td>
     <p align="center";><strong><a href="https://github.com/ErllanRego">Erllan Rego</a></strong></p>
-    <p align="center";><a href="https://github.com/ErllanRego"><img width="100px"; src="https://avatars.githubusercontent.com/u/69881545?v=4"></a></p>
-    <p align="center";><a href="https://www.linkedin.com/in/erllanrego/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
+    <p align="center";><a href="https://github.com/ErllanRego"><img width="100px"; height="200px"; src="https://avatars.githubusercontent.com/u/69881545?v=4"></a></p>
    </td>
+   <td>
+<p>I'm a student of programming. At the moment I have the goal of getting an internship.</p>
+<code>🎓Technology in systems analysis and development <strong>(3º Semester)</strong></code>
+
+<br>
+<h3>📚Languages and Tools:</h3><br>  
+<p align="left">
+  
+  
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />-->
+  
+ </p>
+ <hr>
+ <h3>You can find me in:</h3>
+ <p align="left"> <a href="https://www.linkedin.com/in/ErllanRego/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ErllanRego"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+
+</p></td>
  </tr>
 </table>
 
