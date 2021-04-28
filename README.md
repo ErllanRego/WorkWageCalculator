@@ -55,7 +55,7 @@
   <tr> 
    <td>
     <p align="center";><strong><a href="https://github.com/ErllanRego">Erllan Rego</a></strong></p>
-    <p align="center";><a href="https://github.com/ErllanRego"><img width="100px"; height="200px"; src="https://avatars.githubusercontent.com/u/69881545?v=4"></a></p>
+    <p align="center";><a href="https://github.com/ErllanRego"><img width="200px"; src="https://avatars.githubusercontent.com/u/69881545?v=4"></a></p>
    </td>
    <td>
 <p>I'm a student of programming. At the moment I have the goal of getting an internship.</p>
