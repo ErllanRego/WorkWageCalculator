@@ -1,4 +1,5 @@
 <h1 align="center">Work Wage Calculator</h1>
+<h2 align="center">DEPLOY <a href="https://replit.com/@ErllanRego/Deploy#main.c">AQUI</a></h2>
 
 <p align="center">"If you don't buy, the discount is bigger!"</p>
 
